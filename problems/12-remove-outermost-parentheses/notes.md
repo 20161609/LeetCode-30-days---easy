@@ -1,5 +1,8 @@
 # Notes
 
+## Link
+https://leetcode.com/problems/remove-outermost-parentheses/
+
 ## Code
 ``` python
 from collections import deque
