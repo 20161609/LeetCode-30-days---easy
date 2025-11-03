@@ -1,11 +1,24 @@
 # Notes
+
+## Link
+https://leetcode.com/problems/reverse-words-in-a-string-iii/
+
+## Code
+``` python
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        return " ".join(v[::-1]for v in s.split())
+```
+
 ## Idea
-- Key pattern(s): <Insert key idea>
-- Core steps in 2–4 bullets.
+- Key pattern(s): String
+- Core steps:
+    - Split string `s` and reverse members.
+    - Combine all string members with `" "`.
 
 ## Complexity
-- Time: O(...)
-- Space: O(...)
+- Time: O(n)
+- Space: O(n)
 
 ## Gotcha
-- <1–2 pitfalls>
+- I tried to code shorter.
