@@ -1,12 +1,13 @@
 # LeetCode 30 Days — Easy Refresh
+## (COMPLETE)
+
 
 A lightweight 30-day refresh plan focused on easy problems across fundamental categories.
 
 ## Progress
 - Start date: 2025-10-31
-- End date: -
-- completed: 29/30
-
+- End date: 2025-11-06
+- completed: 30/30 (Complete)
 
 ## Structure
 ```
